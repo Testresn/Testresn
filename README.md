@@ -1,3 +1,3 @@
 # 1
 
-https://testresn.github.io/testresn/
+https://testresn.github.io/Testresn/
